@@ -8,26 +8,32 @@
         Title="MainWindow" Height="350" Width="604">
     <Grid>
         
+            //definimos las filas
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-
+            
+            //definimos las columnas
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="Auto"/>
             <ColumnDefinition Width="200"/>
         </Grid.ColumnDefinitions>
-
-
+            
+            //seccion nombre, definimos el identificador y la caja de texto donde ingresaremos el nombre
         <Label Name="nameLabel" Margin="2">_Name:</Label>
         <TextBox Name="nameText" Grid.Column="1" Margin="2"
                  Text="{Binding Name, Mode=OneWay}"/>
         
+            //hacemos lo mismo con la parte donde ingresaremos la edad
         <Label Name="ageLabel" Margin="2" Grid.Row="1">_Age:</Label>
         <TextBox Name="ageText" Grid.Column="1" Grid.Row="1" Margin="2"
                   Text="{Binding Age, Mode=OneWay}"/>
-
+            
+        /*si en lugar de "Mode=OneWay" utilizariamos "Mode=TwoWay", cuando escribimos un nuevo
+            nombre y edad, la misma se modificaria y no seguiría quedando el cartel final con el primer
+            nombre y edad que seteamos*/
 
 
         <StackPanel Grid.Row="2" Grid.ColumnSpan="2">
