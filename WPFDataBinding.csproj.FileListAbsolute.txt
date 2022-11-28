@@ -1,0 +1,15 @@
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\WPFDataBinding.csproj.AssemblyReference.cache
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\App.g.cs
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\WPFDataBinding_MarkupCompile.cache
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\WPFDataBinding_MarkupCompile.lref
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\bin\Debug\WPFDataBinding.exe.config
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\bin\Debug\WPFDataBinding.exe
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\bin\Debug\WPFDataBinding.pdb
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\MainWindow.baml
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\WPFDataBinding.g.resources
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\WPFDataBinding.Properties.Resources.resources
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\WPFDataBinding.csproj.GenerateResource.cache
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\WPFDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\WPFDataBinding.exe
+C:\Users\t20083\source\repos\WPFDataBinding\WPFDataBinding\obj\Debug\WPFDataBinding.pdb
