@@ -20,13 +20,19 @@ namespace WPFDataBinding
     /// </summary>
     public partial class MainWindow : Window
     {
+        
+        /*de la clase persona, definimos el nombre y edad que van a estar ingresados
+        por defecto*/
         Person person = new Person { Name = "Florencia", Age = 21 };
+        
+        //se inicializa la ventana dandole como contexto lo que tenemos en la clase person 
         public MainWindow()
         {
             InitializeComponent();
             this.DataContext = person;
         }
 
+        //funcion button click para que cuando demos click al boton aparezca un cartel que diga el nombre y la edad seteada
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             string message = person.Name + " is " + person.Age;
